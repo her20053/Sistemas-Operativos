@@ -1,0 +1,1 @@
+Este es un texto que tiene que ser copiado al archivo .txt the destino.
